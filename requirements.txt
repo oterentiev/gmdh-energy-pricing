@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn==1.4.*
+xgboost==2.0.*
+torch==2.2.*
+pulp
