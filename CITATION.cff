@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+
+title: "GMDH Energy Pricing"
+
+message: "If you use this software, please cite it as follows."
+
+type: software
+
+authors:
+  - family-names: Lytvynenko
+    given-names: Volodymyr
+
+version: 1.0.0
+
+date-released: 2026-07-06
+
+repository-code: "https://github.com/oterentiev/gmdh-energy-pricing"
+
+license: MIT
